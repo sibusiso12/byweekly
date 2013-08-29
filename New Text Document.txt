@@ -1,0 +1,16 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sibusiso12/byweekly.git
+
+git push -u origin masterPush an existing repository from the command line
+git remote add origin https://github.com/sibusiso12/byweekly.git
+git push -u origin master
+
+
+password 
+
+password validation
+
+preg_match("/^.(?=.{8,})(?=.[0-9])(?=.[a-z])(?=.[A-Z]).*$/") 
