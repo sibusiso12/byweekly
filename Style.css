@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link    {color:Blue;}
+a:visited {color:Blue;}
+a:hover   {color:#099}
+a:active  {color:Green;}
+
+table{
+	border-radius:10px;
+	}
+#myBox {
+    margin: 50px;
+    color:black;
+    width: 1000px;
+    padding: 10px;
+    text-align:center;
+    background-color: white;
+    border: 3px solid #28415F;
+	border-radius:10px;
+	align:center;
+	background-color:#0000FF;
+}
+#p1{
+	color:#F00;
+	text-shadow:#009;
+	text-decoration:blink;}
+body
+{
+background-color:#0099FF;
+}
